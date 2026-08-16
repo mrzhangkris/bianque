@@ -19,8 +19,17 @@
 ## 安装
 
 ```bash
-git clone https://github.com/mrzhangkris/bianque.git ~/.dsh/skills/bianque
+git clone https://github.com/mrzhangkris/bianque.git
+# 把 bianque/SKILL.md 复制到你所用 runtime 的技能目录即可
 ```
+
+各 runtime 技能目录速查：
+
+| Runtime | 技能目录 |
+|---|---|
+| DSH | `~/.dsh/skills/` |
+| Claude Code | `~/.claude/skills/` |
+| Codex / Cursor / OpenClaw 等 | 按各自 skills 根目录约定 |
 
 ## 相关技能
 
